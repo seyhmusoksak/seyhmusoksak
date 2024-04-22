@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Junior Developer | Ecole 42 Student</h6>
+<h4 align="center">Software Developer | Ecole 42 Student</h6>
 
 ###
 
