@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">IT Solutions Designer | Software Developer | Ecole 42 Student</h6>
+<h4 align="center">Software Developer | System Administrator & Ecole 42 Common Core Student</h6>
 
 ###
 
